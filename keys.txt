@@ -1,0 +1,10 @@
+Key.enter
+'l'
+'s'
+Key.enter
+'c'
+'d'
+Key.space
+'.'
+'.'
+Key.enter
